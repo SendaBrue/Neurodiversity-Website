@@ -1,0 +1,146 @@
+/*myprojectcss.css*/
+
+body { background-color: #ffffff;
+	color: #330066;
+	font-family: Verdana, Ariel, sans-serif;  }
+
+#leftColumn { float: left;
+	width: 150px;
+	padding-top: none;
+	border-right: lightblue; }
+
+#rightColumn { margin-left: 155px; }
+		
+#content { margin-top: auto;
+	margin-left: 5%;
+	margin-right: 5%; 
+	width: auto;
+	padding-bottom: 20px; }
+				
+#index { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 100px;
+	padding-bottom: 225px;
+	height: auto;
+	width: auto;
+	margin: 0 auto; }
+
+#neurodiversityModel {
+	float: right;
+	margin: 0 0 5px 5px;
+	border: 1px solid #000000; }
+		 
+#genome { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 115px;
+	padding-bottom: 200px;
+	width: auto;
+	margin: 0 auto; }
+		 
+#individuals { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 115px;
+	padding-bottom: 200px;
+	width: auto;
+	margin: 0 auto; }
+		 
+#change { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 100px;
+	padding-bottom: 225px;
+	height: auto;
+	width: auto;
+	margin: 0 auto; }
+		 
+#to_do { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 115px;
+	padding-bottom: 200px;
+	width: auto;
+	margin: 0 auto; }
+		 
+#advocacy { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 115px;
+	padding-bottom: 200px;
+	width: auto;
+	margin: 0 auto; }
+
+#contact { background-image: url(Images/Autism_spectrum_infinity_awareness_symbol.png);		 
+	background-repeat: repeat-x;
+	padding-top: 115px;
+	padding-bottom: 200px;
+	width: auto;
+	margin: 0 auto; }
+		 
+
+h1 { text-align: center;
+	font-size: 4em;
+	background-color: #ebf2f4;
+	color: #02123f;
+	padding: 20px; }
+
+h3 { text-align: center; }
+
+h5 { font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+a:link { color: #010710; 
+	text-decoration: none;}
+a:visited { color: #654c7e;
+	text-decoration: none; }
+a:hover { color: #cccccc;
+	text-decoration: none; }
+
+li { padding-top: 5px;
+	padding-bottom: 5px; }
+
+#rightcolumn { margin-left: 180px;
+	padding-right: 10px;
+	padding-bottom: 20px; }
+	  
+.nav { font-weight: bold;
+	font-size: .75em;
+	list-style-type: none; }
+
+.category { font-weight: bold;
+	color: #003366;
+	font-size: 1.1em;
+	text-shadow: 1px 1px 1px #666; }
+			
+img { border-style: none; }
+
+#line { border-bottom: 1px solid #000000;
+	padding-bottom: 10px;
+	margin-left: 5%;
+	margin-right: 5%; }
+
+.clearRight { clear: right; }
+
+.clearLeft { clear: left; }
+
+.clearAll { clear: both;}
+
+.contentQuote { text-align: center;
+	background-color: #ebf2f4;
+	color: #02123f;
+	padding: 20px; }
+
+.backgroundPar {background-color: #ebf2f4;
+	color: #02123f;
+	padding: 20px; }
+			
+#footer { width: 90%;
+	min-width: 600px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto; 
+	font-size: .70em;
+	font-style: italic; }
+
+#wrapper { width: 90%;
+	min-width: 750px;
+	margin-top: auto;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: white;
+	color: #02020f; }
